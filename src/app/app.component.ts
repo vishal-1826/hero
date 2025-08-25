@@ -40,8 +40,4 @@ export class AppComponent   {
     });
   }
 
-   Name() {
-    console.log(this.firstname);
-  }
-
 }
